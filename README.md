@@ -7,6 +7,13 @@ This was done through a board game where players collected pieces while moving a
 
 Below are images from my final project:
 
-![This image is an overview of the full game](Images/overview.png) 
+*This image is an overview of the full game*
+![](Images/overview.jpg) 
 
-![Open Box](Images/Open_Box.jpg)
+![](Images/Open_Box.jpg)
+
+![](Images/Open_Box.jpg)
+
+![](Images/Cube_Piece.jpg)
+
+![](Images/Pi.jpg)
