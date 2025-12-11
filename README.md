@@ -11,7 +11,7 @@ Below are images from my final project:
 <p float="left">
   <img src="Images/Overview.jpg" width="250" />
   <img src="Images/Open_Box.jpg" width="250" />
-  <img src="Images/Open_Box.jpg" width="250" />
+  <img src="Images/Closed_Box.jpg" width="250" />
 </p>
 
 <p float="left">
