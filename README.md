@@ -9,12 +9,12 @@ Below are images from my final project:
 
 *This image is an overview of the full game*
 <p float="left">
-  <img src="Images/Overview.jpg" width="300" />
-  <img src="Images/Open_Box.jpg" width="300" />
-  <img src="Images/Open_Box.jpg" width="300" />
+  <img src="Images/Overview.jpg" width="250" />
+  <img src="Images/Open_Box.jpg" width="250" />
+  <img src="Images/Open_Box.jpg" width="250" />
 </p>
 
 <p float="left">
-  <img src="Images/Cube_Piece.jpg" width="300" />
-  <img src="Images/Pi.jpg" width="300" />
+  <img src="Images/Cube_Piece.jpg" width="250" />
+  <img src="Images/Pi.jpg" width="250" />
 </p>
