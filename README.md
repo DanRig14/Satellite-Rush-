@@ -9,7 +9,7 @@ Below are images from my final project:
 
 *This image is an overview of the full game*
 <p float="left">
-  <img src="Images/overview.jpg" width="150" />
+  <img src="Images/Overview.jpg" width="150" />
   <img src="Images/Open_Box.jpg" width="150" />
   <img src="Images/Open_Box.jpg" width="150" />
 </p>
